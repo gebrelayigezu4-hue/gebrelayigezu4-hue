@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Gebrela 👋🏽
 
-<!--
-**gebrelayigezu4-hue/gebrelayigezu4-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aeronautical Engineering × AI × Data
 
-Here are some ideas to get you started:
+I'm an aeronautical engineering student exploring how programming, artificial intelligence, and data can be applied to aviation and aerospace engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently working on
+
+✈️ Aviation data & engineering projects  
+🤖 AI/ML applications in aviation  
+📊 Data analysis with Python  
+🔬 Aviation research  
+🚀 Aerospace & space projects  
+
+### Technical interests
+
+Python • C • MATLAB • CATIA • ANSYS • AI/ML • Data Analysis
+
+### Featured Project
+
+[✈️ Aviation Data Engine] [https://github.com/gebrelayigezu4-hue](https://github.com/gebrelayigezu4-hue/gebrelayigezu4-hue/tree/main)
+
+---
+
+*Building at the intersection of aerospace engineering and intelligent systems.*
