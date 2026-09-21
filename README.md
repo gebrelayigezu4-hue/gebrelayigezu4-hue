@@ -18,7 +18,7 @@ Python • C • MATLAB • CATIA • ANSYS • AI/ML • Data Analysis
 
 ### Featured Project
 
-[✈️ Aviation Data Engine] [https://github.com/gebrelayigezu4-hue](https://github.com/gebrelayigezu4-hue/gebrelayigezu4-hue/tree/main)
+[[✈️ Aviation Data Engine]](https://github.com/gebrelayigezu4-hue/aviation-data-engine) 
 
 ---
 
